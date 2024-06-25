@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist
+build
+dist-ssr
+*.local
+.vite
+.idea
+build
+.idea
+.env
+.log
